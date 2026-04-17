@@ -1,6 +1,6 @@
 # Custom C++ Vector Implementation
 
-A high-performance, manual implementation of a dynamic array (`std::vector`) focusing on **Memory Management**, **RAII**, and **Move Semantics**. This project was built to master the fundamental C++ concepts required for low-latency systems and Quantitative Development.
+A high-performance, manual implementation of a dynamic array (`std::vector`) focusing on **Memory Management**, **RAII**, and **Move Semantics**.
 
 ## Key Features
 - **RAII (Resource Acquisition Is Initialization):** Ensures deterministic memory cleanup via the Destructor.
